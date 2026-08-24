@@ -13,7 +13,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">👨🏻‍💻 About Me 👨🏻‍💻</h2>
+<h2 data-importer="text" align="left">👨‍💻 About Me 👨‍💻</h2>
 
 - 😭 I live in Iran
 - ✨ I started learning in 2020
