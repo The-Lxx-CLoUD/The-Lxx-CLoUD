@@ -84,18 +84,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-##
-
-
-<div align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=The-Lxx-CLoUD&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Lxx-CLoUD&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-
-</div>
-
-
 
 
 
