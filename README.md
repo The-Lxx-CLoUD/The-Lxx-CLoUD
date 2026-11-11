@@ -4,10 +4,10 @@
 
 <div data-importer="socials" align="left">
   <a href="https://t.me/lxxcloud" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Private&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=CLoUD&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
   <a href="https://t.me/IfMasih" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Private(2)&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Admin&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
 
